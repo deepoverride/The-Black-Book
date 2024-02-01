@@ -12,8 +12,4 @@ grep "redeem reward" ~/*.txt
 You can search for a text string all files under each directory, recursively with -r option:
 ´´´
 grep -r "redeem reward" /home/tom/
-´´
-
-```
-<paste your code here>
-```
+´´´
