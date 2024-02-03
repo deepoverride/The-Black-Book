@@ -1,6 +1,7 @@
     ```
     hostname
-    ``` returns machine name
+    ``` 
+    returns machine name
     ```
     whoami
     ``` returns which user I am
