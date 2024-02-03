@@ -66,6 +66,7 @@ usermod -aG sudo username
 ◦ other option:
 in  <strong>/etc/sudoers</strong>
 after this line ``` User privilege specification ```
+
 add this but need password of the username
 ``` username    ALL=(ALL) ALL ```
 
