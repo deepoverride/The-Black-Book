@@ -62,8 +62,9 @@ usermod -aG sudo username
 ```
 ◦ and add this to <strong>/etc/sudoers</strong>
 ``` username  ALL=(ALL) NOPASSWD:ALL ``` ← This not needed password
+
 ◦ other option:
 in  <strong>/etc/sudoers</strong>
-"#" User privilege specification ← after this line
+User privilege specification ← after this line
 ``` username    ALL=(ALL) ALL ``` ← add this but need password of the username
 
