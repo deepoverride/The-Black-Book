@@ -1,11 +1,12 @@
-.
-    ```
-    hostname
-    ``` 
-    returns machine name
-    ```
-    whoami
-    ``` returns which user I am
+Returns machine name
+```
+hostname
+``` 
+Returns which user I am
+```
+whoami
+```
+
     ```
     id
     ``` returns user’s privileges
